@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>C_Sharp_Lab</AssemblyName>
+    <RootNamespace>C_Sharp_Lab</RootNamespace>
+  </PropertyGroup>
+
+</Project>
